@@ -1,0 +1,42 @@
+body{
+background-color: brown;
+}
+
+#player1_name{
+color: black;
+}
+
+#player1_score{
+color: black;
+}
+
+#player2_name{
+color:black;
+}
+
+#player2_score{
+color: black;
+}
+
+#output{
+background: white;
+border-radius: 10px;
+border-top: 10px solid  #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#number11{
+width: 90%;
+}
+
+#number22{
+width: 90%;
+}
+
+#btn{
+width: 40%;
+background-color: green;
+color: white;
+}
